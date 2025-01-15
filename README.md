@@ -35,10 +35,15 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - Vascular lesion
 
 ## Technologies Used
-Python - version 3.11.7
-Matplotlib - version 3.8.0
-Numpy - version 1.26.3
-Pandas - version 2.1.4
-Seaborn - version 0.12.2
-Tensorflow - version 2.15.1
+- Python - version 3.11.7
+
+- Matplotlib - version 3.8.0
+
+- Numpy - version 1.26.3
+
+- Pandas - version 2.1.4
+
+- Seaborn - version 0.12.2
+
+- Tensorflow - version 2.15.1
 
