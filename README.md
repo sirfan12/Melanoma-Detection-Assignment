@@ -9,7 +9,8 @@
 * [Acknowledgements](#acknowledgements)
 
 
-- Provide general information about your project here.
+- Provide general information about your project here
+  
 In this assignment, we will build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
   
 - What is the background of your project?
