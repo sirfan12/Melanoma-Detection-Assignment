@@ -40,7 +40,7 @@ Pandas - version 2.1.4
 Seaborn - version 0.12.2
 Tensorflow - version 2.15.1
 
-## conclusions 
+## Conclusions 
 
 The final model demonstrates a well-balanced performance, with no indications of underfitting or overfitting.
 
@@ -52,5 +52,5 @@ The minimal gap between training and validation accuracies highlights the strong
 
 Introducing batch normalization did not result in any improvement in training or validation accuracy.
 
-# acknowledgements
+# Acknowledgements
 UpGrad , Statsquest, 3blue1brown, opensource community
